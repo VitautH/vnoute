@@ -1,0 +1,21 @@
+.parallax>div {
+	position:relative;
+	padding:19% 0;
+	color:#fff;
+	background-position:top;
+	background-repeat:no-repeat;
+	background-size:100%
+}
+.parallax p {
+	position:relative;
+}
+.parallax h1,
+.parallax h2 {
+	position:relative;
+}
+.parallax h4 {
+	position:relative;
+}
+.parallax>div a {
+	position:relative;
+}
